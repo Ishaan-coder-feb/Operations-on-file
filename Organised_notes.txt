@@ -1,5 +1,3 @@
 Maths:Algebra 
 Science:Gravity 
 English:Vocabulary 
-skip Geography:World Map 
-skip History:Roman Empire 
